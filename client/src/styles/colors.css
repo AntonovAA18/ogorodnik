@@ -1,0 +1,21 @@
+.color-gerey {
+    color: #363636;
+}
+.background-color-gerey {
+    background-color: #363636;
+}
+.color-green {
+    color: var(---color-green);
+}
+.bg-color-green {
+    background-color: var(---color-green);
+}
+.color-grey-green {
+    color: var(---color-grey-green);
+}
+.bg-color-grey-green {
+    background-color: var(---color-grey-green);
+}
+.color-green-2 {
+    background-color: #ecf5e8;
+}

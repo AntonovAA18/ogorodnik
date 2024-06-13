@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+    ---color-grey: #363636;
+    ---color-green: #5b8a24;
+    ---color-grey-green: #4b6442;
+}
+button {
+    padding: 0;
+    border: none;
+    font: inherit;
+    color: inherit;
+
+}
